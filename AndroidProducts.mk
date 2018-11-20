@@ -1,2 +1,2 @@
 PRODUCT_MAKEFILES := \
-$(LOCAL_DIR)/gzosp_albus.mk
+$(LOCAL_DIR)/aosp_albus.mk
